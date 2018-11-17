@@ -8,9 +8,9 @@ Git, GitHub, and Version Control
 
 Co-authored with Arnav Sood
 
-An essential part of modern software engineering is using version control
+An essential part of modern software engineering is using version control.
 
-We use version control because 
+We use version control because:
 
 * Not all iterations on a file are perfect, and you may want to revert changes
 * We want to be able to see who has changed what and how 
@@ -19,7 +19,7 @@ We use version control because
 * Version control is an essential part of creating reproducible research
 
 
-In this lecture, we'll discuss how to use Git and GitHub
+In this lecture, we'll discuss how to use Git and GitHub.
 
 .. contents:: :depth: 2
 
@@ -65,7 +65,7 @@ Later, you may find yourself using alternatives
 * GitHub is the market leader for open-source projects and Julia, but there are other options, e.g. `GitLab <https://about.gitlab.com/>`_ and `Bitbucket <https://bitbucket.org>`_
 * Instead of the GitHub Desktop, you may directly use the Git `command-line <version_control_commandline>`_ , `GitKraken <https://www.gitkraken.com/>`_, or use the Git functionality built into editors such as `Atom <https://atom.io/>`_ or `VS Code <https://code.visualstudio.com/>`_
 
-Since these lecture notes are intended to provide a minimal path to using the technologies, here we will conflate the workflow of these distinct products
+Since these lecture notes are intended to provide a minimal path to using the technologies, here we will conflate the workflow of these distinct products.
 
 
 Basic Objects 
